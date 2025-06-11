@@ -1,4 +1,5 @@
 # reto-7
+la solucion en el notebook esta en untilted2.ipynb
 
 ### Ejercicios
 1. Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
